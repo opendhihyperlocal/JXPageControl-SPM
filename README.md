@@ -43,7 +43,7 @@ All styles inherit from `JXPageControlBase` and conform to `JXPageControlType`.
 **Xcode:** File → Add Package Dependencies… and enter:
 
 ```
-https://github.com/abhishekpundir-arch/JXPageControl-SPM.git
+https://github.com/opendhihyperlocal/JXPageControl-SPM.git
 ```
 
 Choose version `1.0.0` or later, then add the **JXPageControl** library to your app target.
@@ -52,7 +52,7 @@ Choose version `1.0.0` or later, then add the **JXPageControl** library to your 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/abhishekpundir-arch/JXPageControl-SPM.git", from: "1.0.0")
+    .package(url: "https://github.com/opendhihyperlocal/JXPageControl-SPM.git", from: "1.0.0")
 ],
 targets: [
     .target(
@@ -67,7 +67,7 @@ targets: [
 ### CocoaPods
 
 ```ruby
-pod 'JXPageControl', :git => 'https://github.com/abhishekpundir-arch/JXPageControl-SPM.git', :tag => '1.0.0'
+pod 'JXPageControl', :git => 'https://github.com/opendhihyperlocal/JXPageControl-SPM.git', :tag => '1.0.0'
 ```
 
 ## Usage
@@ -137,7 +137,7 @@ Some styles add their own properties, such as `isAnimation` on `JXPageControlJum
 
 ## Maintainer
 
-[abhishekpundir-arch](https://github.com/abhishekpundir-arch)
+[opendhihyperlocal](https://github.com/opendhihyperlocal)
 
 ## License
 

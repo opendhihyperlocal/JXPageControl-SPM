@@ -19,10 +19,10 @@ Pod::Spec.new do |s|
 
   s.description      = 'Custom UIPageControl: a most complete PageControl framework that supports multiple animations and layouts.'
 
-  s.homepage         = 'https://github.com/abhishekpundir-arch/JXPageControl-SPM'
+  s.homepage         = 'https://github.com/opendhihyperlocal/JXPageControl-SPM'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Code-TanJX' => 'Code_TanJX@163.com' }
-  s.source           = { :git => 'https://github.com/abhishekpundir-arch/JXPageControl-SPM.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/opendhihyperlocal/JXPageControl-SPM.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
